@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <Url>http://192.168.2.20:5555/in</Url>
+  <ContentType>application/json</ContentType>
+</config>
